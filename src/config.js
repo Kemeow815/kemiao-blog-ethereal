@@ -34,7 +34,7 @@ export default {
   subtitle: '克喵的博客',
   description: '克喵在博客里分享自己的生活经历、资源分享和踩坑教程等等。',
   keywords: '克喵, blog, github',
-  logo: './logo.svg',
+  logo: 'https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256',
   favicon16: './favicon.ico',
   favicon32: './favicon.ico',
   createdTime: '2025-06-30',
@@ -56,7 +56,7 @@ export default {
   // 友链信息
   name: '喵落阁',
   url: 'https://myblog.kemeow.top/',
-  avatar: '作者或博客头像链接',
+  avatar: 'https://cn.cravatar.com/avatar/1F6C8947D35A8186A1647009BA8BC5F2?size=256',
   desc: '愿你看清一切真相后，依旧热爱你的家人和朋友。',
 
   // 文章相关
