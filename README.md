@@ -1,4 +1,4 @@
-# Ethereal
+# Ethereal (kemiao 仓库)
 
 <div align="center"><img src="./docs/imgs/mockup.webp" alt="预览图" /></div>
 
